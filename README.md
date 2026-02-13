@@ -6,13 +6,13 @@
 
   <p align="center">
     <a href="https://github.com/mohammed-zubair-naik">
-      <img src="https://img.shields.io/github/followers/mohammed-zubair-naik?label=Followers&style=for-the-badge&color=9F4BFF&logo=github" />
+      <img src="https://img.shields.io/github/followers/mohammed-zubair-naik?label=Followers&style=for-the-badge&color=00FFFF&logo=github&logoColor=black" />
     </a>
     <a href="mailto:fakruddinfakruddin245@gmail.com">
-      <img src="https://img.shields.io/badge/Contact-Email-white?style=for-the-badge&color=9F4BFF&logo=gmail" />
+      <img src="https://img.shields.io/badge/Contact-Email-white?style=for-the-badge&color=00FFFF&logo=gmail&logoColor=black" />
     </a>
     <a href="https://linkedin.com/mohammed-zubair-naik-">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&color=9F4BFF&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&color=00FFFF&logo=linkedin&logoColor=black" />
     </a>
   </p>
 </div>
@@ -30,7 +30,7 @@
         <code>Scaling Next.js Applications</code>
       </p>
     </td>
-  
+   
   </tr>
 </table>
 
@@ -45,7 +45,7 @@
 | **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) |
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?logo=tailwind-css&logoColor=white) |
 | **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-CNNs-9F4BFF?style=flat) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/-CNNs-00FFFF?style=flat&labelColor=008B8B) |
 | **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) |
 
 </div>
@@ -54,11 +54,9 @@
 
 ### 📊 GitHub Activity Deep Dive
 
-
-<br/>
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammed-zubair-naik&theme=midnight_purple" width="90%">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mohammed-zubair-naik&show_icons=true&theme=tokyonight&icon_color=00FFFF&text_color=00FFFF&title_color=00FFFF&bg_color=0d1117&hide_border=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mohammed-zubair-naik&layout=compact&theme=tokyonight&text_color=00FFFF&title_color=00FFFF&bg_color=0d1117&hide_border=true&cache_seconds=1800" width="40%" />
 </div>
 
 ---
@@ -66,9 +64,9 @@
 ### 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-zubair-naik&theme=midnight_purple&hide_border=true" width="90%" />
+  <img src="https://streak-stats.demolab.com/?user=mohammed-zubair-naik&theme=tokyonight&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&sideLabels=00FFFF&dates=00FFFF&hide_border=true" width="90%" />
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammed-zubair-naik&label=Profile%20Views&color=9F4BFF&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=mohammed-zubair-naik&label=Profile%20Views&color=00FFFF&style=flat-square" />
 </div>
